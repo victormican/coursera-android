@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">coursera-android</string>
+    <string name="greeting">¡Hola Mundo!</string>
+    <string name="welcome">Bienvenido a la aplicación multilenguaje</string>
 </resources>
