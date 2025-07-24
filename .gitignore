@@ -1,0 +1,39 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+*/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local Configuration
+local.properties
+
+# Log/Temp files
+*.log
+*.tmp
+*.temp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# APKs
+*.apk
+*.ap_
+
+# Keystore files
+*.jks
+*.keystore
+
+# NDK
+obj/
+
+# Ignore generated files
+captures/
+.externalNativeBuild/
+
+# Misc
+*.swp
